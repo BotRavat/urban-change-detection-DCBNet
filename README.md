@@ -24,12 +24,16 @@ The notebook file (`.ipynb`) can be obtained from one of the two sources below.
 
 Repository:
 
+https://github.com/BotRavat/urban-change-detection-DCBNet
+
 * Click **Code**
 * Select **Download ZIP**
 * Extract the archive
 * The notebook file ends in `.ipynb`
 
 ## Google Drive
+
+https://drive.google.com/drive/folders/13uSoW1oH2rAozqCPPbxGlxnk6F8BMeqJ?usp=sharing
 
 * Open the folder
 * Right-click the file
@@ -49,6 +53,8 @@ Two datasets are used.
 2. Search for **LEVIR-CD**
 3. Download it, or add directly as notebook input inside Kaggle
 
+[Kaggle](https://www.kaggle.com)
+
 ---
 
 ## LIM-CD (Private Access / Official GitHub)
@@ -62,6 +68,8 @@ Send your Kaggle username and access can be granted to the private Kaggle datase
 ### Option 2 — Official Repository
 
 Download from there and upload manually as Kaggle dataset or place locally.
+
+[LIM-CD Official Repository](https://github.com/xiaoxiangAQ/LIM-CD-dataset)
 
 ## Contact for LIM-CD access
 
@@ -79,6 +87,8 @@ Kaggle provides free GPU access.
 
 Create a free account at:
 
+https://www.kaggle.com
+
 ---
 
 ## Step 2 — Create Notebook and Import Code
@@ -88,6 +98,8 @@ Create a free account at:
 3. File → Import Notebook
 4. Browse and select `.ipynb`
 5. Import
+
+![Import Notebook](screenshots/import_notebook.png)
 
 ---
 
@@ -99,6 +111,8 @@ Choose either:
 * GPU P100
 
 > Kaggle provides 30 hours GPU time per week.
+
+![Select GPU](screenshots/select_gpu.png)
 
 ---
 
@@ -115,6 +129,8 @@ Example path:
 ```
 
 For LIM-CD, add after access is granted.
+
+![Add Dataset](screenshots/add_dataset.png)
 
 ---
 
@@ -241,6 +257,8 @@ Outputs saved under:
 ```bash
 /kaggle/working/
 ```
+
+![Save Version](screenshots/save_version.png)
 
 ---
 
